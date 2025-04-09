@@ -4,7 +4,7 @@ Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript que 
 
 ## Tecnologias Utilizadas
 
-*   HTML5
+*   HTML
 *   CSS3
 *   JavaScript
 *   [ViaCEP](https://viacep.com.br/)
